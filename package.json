@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Advent of Code 2024 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjeanjaquet/AdventOfCode.git"
+  },
+  "author": "jjeanjaquet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjeanjaquet/AdventOfCode/issues"
+  },
+  "homepage": "https://github.com/jjeanjaquet/AdventOfCode#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
